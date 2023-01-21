@@ -20,7 +20,7 @@ The Columbia Undergraduate Quantum Computing Club (CUQCC) is a group of undergra
 | Mar 8th | No Lecture | | | |
 | Mar 15st | Spring Break | | | |
 | Mar 22nd | TBD | TBD | --- | content |
-| Mar 29th | Manuel Paez | Verifiable Quantum Advantage without Structure (Part 1) | A proof of NP-search problems can give provable solvable by BQP machines but not BPP machines using random oracles. (based on Yamakawa, Zhandry's 2022 paper) | content |
+| Mar 29th | Manuel Paez | Verifiable Quantum Advantage without Structure (Part 1) | A proof for NP-search problems are solvable by BQP machines but not BPP machines using random oracles. (based on Yamakawa, Zhandry's 2022 paper) | content |
 | April 5th | TBD | TBD | TBD | 
 | April 12th | TBD | TBD | --- | content |
 | April 19th | TBD | TBD | --- | content |
