@@ -11,13 +11,13 @@ The Columbia Undergraduate Quantum Computing Club (CUQCC) is a group of undergra
 
 | Date  | Speaker | Title | Abstract | 
 | ------------ | ------------ | ------------ | ------------ | 
-| Feb 1st | Akshat Yaparla | content | content | content |
+| Feb 1st | Akshat Yaparla | Introduction Talk + what is Quantum Computing | content | 
 | Feb 8th | Manuel Paez | Fully Device Independent Quantum Key Distribution | A proof of security for Quantum Cryptography by a classical user of a quantum protocol who may not even trust the quantum devices used to implement the protocol (based on Vidick, Varizani's 2019 paper) | 
-| Feb 15th | TBD | TBD |  | content |
-| Feb 22th | TBD | TBD | | content |
-| Mar 1st | TBD | TBD |  | content |
-| Mar 8th | No Lecture | | | |
-| Mar 15st | Spring Break | | | |
+| Feb 15th | TBD | TBD |  | 
+| Feb 22th | TBD | TBD | | 
+| Mar 1st | TBD | TBD |  | 
+| Mar 8th | No Lecture | | |
+| Mar 15st | Spring Break | | |
 | Mar 22nd | TBD | TBD | --- | content |
 | Mar 29th | Manuel Paez | Verifiable Quantum Advantage without Structure (Part 1) | A proof for NP-search problems are solvable by BQP machines but not BPP machines using random oracles. (based on Yamakawa, Zhandry's 2022 paper) | content |
 | April 5th | TBD | TBD | TBD | 
