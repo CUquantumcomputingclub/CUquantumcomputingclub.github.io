@@ -7,7 +7,7 @@
 ### About
 The Columbia Undergraduate Quantum Computing Club (CUQCC) is a group of undergraduate students who share the common interest of discussing and learning from different topics and areas of research in quantum computing. While engaged in a seminar format, members of CUQCC will have an opportunity to talk with other like-minded people from all sorts of backgrounds. Everyone is welcomed! 
 
-### Schedule (Winter/Spring 2023)
+### Spring 2023 Schedule 
 
 | Date  | Speaker | Title | Abstract | 
 | ------------ | ------------ | ------------ | ------------ | 
