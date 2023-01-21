@@ -1,3 +1,3 @@
-# CUquantumcomputingclub.github.io
+# Columbia Quantum Computing Club
 
 $a$
