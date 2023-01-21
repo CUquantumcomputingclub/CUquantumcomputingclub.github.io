@@ -6,7 +6,7 @@
 For any additional inquiries (including being a Guest Speaker), contact coheads [Manuel Paez](mailto:manuel.paez@columbia.edu?subject=%5BCUQCC%5D) or [Akshat Yarpala](mailto:ay2544@columbia.edu?subject=%5BCUQCC%5D)
 
 ### About
-The Columbia Undergraduate Quantum Computing Club (CUQCC) is a group of undergraduate students who share the common interest of discussin different topics and areas of research in quantum computing. While engaged in a seminar format, members of CUQCC will have an opportunity to discuss with other like-minded students from all sorts of backgrounds. Everyone is welcomed! 
+The Columbia Undergraduate Quantum Computing Club (CUQCC) is a group of undergraduate students who share the common interest of discussing and learning from different topics and areas of research in quantum computing. While engaged in a seminar format, members of CUQCC will have an opportunity to talk with other like-minded people from all sorts of backgrounds. Everyone is welcomed! 
 
 ### Schedule
 
