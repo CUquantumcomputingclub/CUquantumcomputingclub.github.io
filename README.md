@@ -9,7 +9,7 @@ The Columbia Undergraduate Quantum Computing Club (CUQCC) is a group of undergra
 
 ### Spring 2023 Schedule 
 
-| Date  | Speaker | Title | Abstract | 
+| Date | Speaker | Title | Abstract | 
 | ------------ | ------------ | ------------ | ------------ | 
 | Feb 1st | Akshat Yaparla | Introduction Talk + what is Quantum Computing | content | 
 | Feb 8th | Manuel Paez | Fully Device Independent Quantum Key Distribution | A proof of security for Quantum Cryptography by a classical user of a quantum protocol who may not even trust the quantum devices used to implement the protocol (based on Vidick, Varizani's 2019 paper) | 
@@ -18,12 +18,12 @@ The Columbia Undergraduate Quantum Computing Club (CUQCC) is a group of undergra
 | Mar 1st | TBD | TBD |  | 
 | Mar 8th | No Lecture | | |
 | Mar 15st | Spring Break | | |
-| Mar 22nd | TBD | TBD | --- | content |
-| Mar 29th | Manuel Paez | Verifiable Quantum Advantage without Structure (Part 1) | A proof for NP-search problems are solvable by BQP machines but not BPP machines using random oracles. (based on Yamakawa, Zhandry's 2022 paper) | content |
+| Mar 22nd | TBD | TBD | --- | 
+| Mar 29th | Manuel Paez | Verifiable Quantum Advantage without Structure (Part 1) | A proof for NP-search problems are solvable by BQP machines but not BPP machines using random oracles. (based on Yamakawa, Zhandry's 2022 paper) |
 | April 5th | TBD | TBD | TBD | 
-| April 12th | TBD | TBD | --- | content |
-| April 19th | TBD | TBD | --- | content |
-| April 26th | TBD | TBD | --- | content |
+| April 12th | TBD | TBD | --- | 
+| April 19th | TBD | TBD | --- | 
+| April 26th | TBD | TBD | --- | 
 
 ### Social Media
 TBD
