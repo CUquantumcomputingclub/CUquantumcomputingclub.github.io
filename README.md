@@ -12,7 +12,7 @@ The Columbia Undergraduate Quantum Computing Club (CUQCC) is a group of undergra
 
 | Date  | Speaker | Title | Abstract | Paper (if Applicable) | 
 | ------------ | ------------ | ------------ | ------------ | ------------ | 
-| Feb 1st | Akshat Yarpala | content | content | content |
+| Feb 1st | Akshat Yapala | content | content | content |
 | Feb 8th | Manuel Paez | | content | content |
 | Feb 15th | TBD | TBD |  | content |
 | Feb 22th | TBD | TBD | | content |
