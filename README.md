@@ -25,5 +25,3 @@ The Columbia Undergraduate Quantum Computing Club (CUQCC) is a group of undergra
 | April 19th | TBD | TBD | --- | 
 | April 26th | TBD | TBD | --- | 
 
-### Social Media
-TBD
