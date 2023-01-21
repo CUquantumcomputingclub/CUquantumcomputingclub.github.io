@@ -13,7 +13,7 @@ The Columbia Undergraduate Quantum Computing Club (CUQCC) is a group of undergra
 | Date  | Speaker | Title | Abstract | Paper (if Applicable) | 
 | ------------ | ------------ | ------------ | ------------ | ------------ | 
 | Feb 1st | Akshat Yaparla | content | content | content |
-| Feb 8th | Manuel Paez | Fully device independent Quantum Key Distribution | Talked based on Varizani, Vidick 2019, this lecture answers a proof of security for Quantum cryptography by a classical user of a quantum protocoal who may not even trust the quantum devices used to implement the protocol. | https://dl.acm.org/doi/abs/10.1145/3310974 | 
+| Feb 8th | Manuel Paez | Fully device independent Quantum Key Distribution | A proof of security for Quantum cryptography by a classical user of a quantum protocoal who may not even trust the quantum devices used to implement the protocol. | https://dl.acm.org/doi/abs/10.1145/3310974 | 
 | Feb 15th | TBD | TBD |  | content |
 | Feb 22th | TBD | TBD | | content |
 | Mar 1st | TBD | TBD |  | content |
