@@ -5,8 +5,7 @@ The Columbia Quantum Computing Club (CQCC) are a group of students who share an 
 
 ### [General Interest Form](https://forms.gle/4gtSTQWYxzb5cjic7)
 
-### Meetings Sheet 
-[Lecture Sheet](https://docs.google.com/spreadsheets/d/1s7i07sedqVk2Ul0A2Wj7GkwKwrErh6o_uZa5BrR73LA/edit?usp=sharing)
+### [Meeting Sheet](https://docs.google.com/spreadsheets/d/1s7i07sedqVk2Ul0A2Wj7GkwKwrErh6o_uZa5BrR73LA/edit?usp=sharing)
 
 #### Club Heads
 
