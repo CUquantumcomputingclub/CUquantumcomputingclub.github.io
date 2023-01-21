@@ -9,9 +9,10 @@ The Columbia Quantum Computing Club (CQCC) is a group of undergraduate students 
 Members of CQCC will have an opportunity to talk with other students with like-minded interests hailing from a variety of intellectual backgrounds. In addition, members will be able to interact and network with industry and academic professionals who come in to give guest lectures, creating potential opportunities for research or internship positions. We may also cohost talks with other clubs and societies at Columbia.
 
 | Date  | Speaker | Title | Abstract |
-| Feb 1st | Askhat Yaparla | ------------ |
-| Feb 8th | Manuel Paez  | --- |
-| Feb 15th  | TBD | TBD | --- | 
+| ------------ | ------------ | ------------ | ------------ |
+| Feb 1st | Akshat Yarpala | content | content
+| Feb 8th | Manuel Paez  | --- | content |
+| Feb 15th | TBD | TBD | --- | 
 
 #### [Meeting Sheet](https://docs.google.com/spreadsheets/d/1s7i07sedqVk2Ul0A2Wj7GkwKwrErh6o_uZa5BrR73LA/edit?usp=sharing)
 
