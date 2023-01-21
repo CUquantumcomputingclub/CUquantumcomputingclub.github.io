@@ -1,7 +1,7 @@
 ## Columbia Undergraduate Quantum Computing Club
 
 ##### Wednesdays, 8:00 PM; Room 488 in CSC Building
-##### Interested? [Sign up here](https://forms.gle/4gtSTQWYxzb5cjic7)
+##### Interested? [Sign up here for Weekly Emails](https://forms.gle/4gtSTQWYxzb5cjic7)
 
 For any additional inquiries (including Guest Speaker), contact coheads [Manuel Paez](mailto:manuel.paez@columbia.edu?subject=%5BCUQCC%5D) or [Akshat Yarpala](mailto:ay2544@columbia.edu?subject=%5BCUQCC%5D)
 
