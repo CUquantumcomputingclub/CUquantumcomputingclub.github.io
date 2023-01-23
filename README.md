@@ -1,7 +1,7 @@
 ## Columbia Undergraduate Quantum Computing Club
 
 #### Wednesdays, 7:00 - 8:00 PM; Room 488 in CSC Building
-#### Interested? [Sign up here for weekly emails](https://forms.gle/4gtSTQWYxzb5cjic7)
+#### Interested? [Sign up here for weekly emails + our slack](https://forms.gle/4gtSTQWYxzb5cjic7)
 ###### For any additional inquiries (including being a Guest Speaker), contact [Manuel Paez](mailto:manuel.paez@columbia.edu?subject=%5BCUQCC%5D) or [Akshat Yaparla](mailto:ay2544@columbia.edu?subject=%5BCUQCC%5D)
 
 ### About
@@ -26,4 +26,4 @@ The Columbia Undergraduate Quantum Computing Club (CUQCC) is a group of undergra
 | April 26th | TBD | TBD | --- | 
 
 
-###### Coheads: Manuel Paez, Akshat Yarpala, Arjun Kundinoor
+###### Coheads: Akshat Yarpala, Manuel Paez, Arjun Kudinoor
