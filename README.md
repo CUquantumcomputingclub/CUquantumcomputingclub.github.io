@@ -26,4 +26,4 @@ The Columbia Undergraduate Quantum Computing Club (CUQCC) is a group of undergra
 | April 26th | TBD | TBD | --- | 
 
 
-###### Coheads: Manuel Paez, Akshat Yarpala, Arjun Kundoor
+###### Coheads: Manuel Paez, Akshat Yarpala, Arjun Kundinoor
