@@ -14,7 +14,7 @@ The Columbia Undergraduate Quantum Computing Club (CUQCC) is a group of undergra
 | ------------ | ------------ | ------------ | ------------ | 
 | Feb 1st | Akshat Yaparla | Introduction Talk + what is Quantum Computing | content | 
 | Feb 8th | Manuel Paez | Fully Device Independent Quantum Key Distribution | A proof of security for Quantum Cryptography by a classical user of a quantum protocol who may not even trust the quantum devices used to implement the protocol (based on Vidick, Varizani's 2019 paper) | 
-| Feb 15th | Arjun Kudinoor | Entanglement For The Masses (Spin, Entanglement, Teleportation w/o Equations)	 |  | 
+| Feb 15th | Arjun Kudinoor | Entanglement For The Masses | A Discussion on Spin, Entangelemtn, Teleportation w/o Equations | 
 | Feb 22th | TBD | TBD | | 
 | Mar 1st | TBD | TBD |  | 
 | Mar 8th | No Lecture | | |
