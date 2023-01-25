@@ -2,7 +2,7 @@
 
 #### Wednesdays, 7:00 - 8:00 PM; Room 488 in CSC Building
 #### Interested? [Sign up here for weekly emails](https://forms.gle/4gtSTQWYxzb5cjic7)
-#### Wanna join the slack? [click here](tinyurl.com/cuqccslack)
+#### Wanna join the slack? [click here](https://join.slack.com/t/cuquantumcomputing/shared_invite/zt-1ntc93lxv-F1FaA_USKL_EX7OQ2H8wLw)
 ###### For any additional inquiries (including being a Guest Speaker), contact [Manuel Paez](mailto:manuel.paez@columbia.edu?subject=%5BCUQCC%5D) or [Akshat Yaparla](mailto:ay2544@columbia.edu?subject=%5BCUQCC%5D) or [Arjun Kudinoor](mailto:ask2262@columbia.edu?subject=$5BCUQCC%SD)
 
 ### About
