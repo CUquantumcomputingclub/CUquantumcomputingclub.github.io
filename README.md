@@ -13,7 +13,7 @@ The Columbia Undergraduate Quantum Computing Club (CUQCC) is a group of undergra
 | Date | Speaker | Title | Abstract | 
 | ------------ | ------------ | ------------ | ------------ | 
 | Feb 1st | Akshat Yaparla | Introduction Talk + what is Quantum Computing | An introduction into CUQCC and its seminar-stype format; then a discussion on Shor's Algorithm, the algorithm that showed quantum supremacy over classical machines | 
-| Feb 8th | Manuel Paez | Quantum Key Distribution, CHSH game, and Quantum Cryptography | An introduction into Quantum Key Distribution, a pure quantum cryptography protocol designed to be implemented on Quantum Machines. (Lecture based on Varizani, Vidick's 2019 paper) | 
+| Feb 8th | Manuel Paez | Quantum Key Distribution, CHSH game, and Quantum Cryptography | An introduction into the famous CHSH game, the BB84 protocol, and a proof of security for a Quantum Key Distribution (quantum cryptography) protocol that combines both concepts (Lecture based on Varizani, Vidick's 2019 paper) | 
 | Feb 15th | Arjun Kudinoor | Entanglement For The Masses | A discussion on qubit spin, entanglement, and teleportation without the use of mathematical equations (conceptual) | 
 | Feb 22th | Aswath Suryanarayanan | The dynamics of quantum information (MBL, entropy, scrambling) | | 
 | Mar 1st | TBD | TBD |  | 
