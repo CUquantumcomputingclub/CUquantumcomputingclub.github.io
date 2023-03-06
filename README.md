@@ -19,9 +19,9 @@ The Columbia Undergraduate Quantum Computing Club (CUQCC) is a group of undergra
 | Mar 1st | TBD | TBD |  | 
 | Mar 8th | No Lecture | | |
 | Mar 15th | Spring Break | | |
-| Mar 22nd | Shuhan Zhang | Quantum Error Correction | --- | 
+| Mar 22nd | ---- | ---- | --- | 
 | Mar 29th | Manuel Paez | Verifiable Quantum Advantage without Structure (Part 1) | A proof for NP-search problems are solvable by BQP machines but not BPP machines using random oracles. (based on Yamakawa, Zhandry's 2022 paper) |
-| April 5th | TBD | TBD | TBD | 
+| April 5th | Shuhan Zhang | Quantum Error Correction | TBD | 
 | April 12th | TBD | TBD | --- | 
 | April 19th | TBD | TBD | --- | 
 | April 26th | TBD | TBD | --- | 
